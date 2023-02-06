@@ -2,7 +2,7 @@
 ## Meu nome é Gilciê, mas pode me chamar de "Gil" ! 
 
 - 🔭 Tenho 23 anos, Moro em Aracaju/SE e trabalho como Técnico de suporte em manutenção de Pcs e Servidores, recentemente conheci a programação e me apaixonei, então decidi entrar de vez nessa área incrivel e fazer minha transição de carreira.
-- 🌱 Atualmente faço parte da Turma 30 da Trybe e estou no módulo de fundamentos, onde estamos aprendendo sobre HTML,CSS,Javascript,Git,Github,e Softskills.
+- 🌱 Atualmente estou estudando Javascript após ter aprendido uma sólida base sobre Html,Css sendo capaz de desenvolver sites com design responsivo.
 - 📫 Você pode entrar em contato comigo através do meu<a href='https://www.linkedin.com/in/gilciebatista/'> Linkedin <a> .
 - ⚡ Prometo aprimorar esse perfil e deixa-lo cada vez mais apresentável e com novas "features" ;D !! 
 
