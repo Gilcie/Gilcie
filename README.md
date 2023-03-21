@@ -3,7 +3,7 @@
 
 - 🔭 Tenho 23 anos, Moro em Aracaju/SE e trabalho como Técnico de suporte em manutenção de Pcs e Servidores, Estou no 3º Período do curso de Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estou aprendendo e desenvolvendo alguns projetos em Python, os quais irei postando aqui à medida que desenvolvo.
-- 📫 Você pode entrar em contato comigo através do meu<a href='https://www.linkedin.com/in/gilciebatista/'> Linkedin <a> .
+- 📫 Você pode entrar em contato comigo através do meu<a href='https://www.linkedin.com/in/gilciebatista/'> Linkedin <a> ou <a href="mailto:gilcieb147@gmail.com">Email</a> .
 - ⚡ Prometo aprimorar esse perfil e deixa-lo cada vez mais apresentável e com novas "features" ;D !! 
 
 ## Ferramentas e Tecnologias
