@@ -1,4 +1,4 @@
-# 👋 Olá,Devs. Sejam bem vindos ao meu perfil do Github.
+  <!--# 👋 Olá,Devs. Sejam bem vindos ao meu perfil do Github.
 ## Meu nome é Gilciê, mas pode me chamar de "Gil" ! 
 
 - 📫 Você pode entrar em contato comigo através do meu<a href='https://www.linkedin.com/in/gilciebatista/'> Linkedin <a> ou <a href="mailto:gilcieb147@gmail.com">Email</a> .
